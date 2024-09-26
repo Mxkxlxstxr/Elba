@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escolha seu Mapa</title>
+</head>
+<body>
+    <h1>Escolha um aplicativo para abrir o endereço:</h1>
+    <ul>
+        <li><a href="https://maps.app.goo.gl/Kz3eqcNpbmEwuDCi7">Google Maps</a></li>
+        <li><a href="">Apple Maps</a></li>
+        <li><a href="https://ul.waze.com/ul?place=ChIJOZDONKwQFgcRFZjJnLK1kas&ll=-12.93701500%2C-38.40500580&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location">Waze</a></li>
+    </ul>
+</body>
+</html>
